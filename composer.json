@@ -1,0 +1,17 @@
+{
+    "name": "php-test/hello-world",
+    "description": "testing hello world",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shabeer",
+            "email": "shabeer.ali.m@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
